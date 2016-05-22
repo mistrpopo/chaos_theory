@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>36760e31-31cf-4eb9-997f-1d72cade1120</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>chaos_theory.py</StartupFile>
+    <StartupFile>verhulst_equation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="chaos_theory.py" />
+    <Compile Include="verhulst_equation.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
